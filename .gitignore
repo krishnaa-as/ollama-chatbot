@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore executables
+*.exe
+*.ico
+*.dat
+*.msg
+
+# Ignore text files
+*.txt
+
+# Ignore library folders
+lib/
